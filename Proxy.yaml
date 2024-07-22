@@ -2,5 +2,3 @@ payload:
   - GEOSITE,aws,Proxy
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
   - DOMAIN-SUFFIX,services.googleapis.cn,Proxy
-  - DOMAIN,short.weixin.qq.com,Proxy
-  - DOMAIN,extshort.weixin.qq.com,Proxy
