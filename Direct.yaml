@@ -1,0 +1,22 @@
+payload:
+  - IP-CIDR,192.168.0.0/16,DIRECT
+  - IP-CIDR,10.0.0.0/8,DIRECT
+  - IP-CIDR,172.16.0.0/12,DIRECT
+  - IP-CIDR,127.0.0.0/8,DIRECT
+  - IP-CIDR,100.64.0.0/10,DIRECT
+  - IP-CIDR,224.0.0.0/4,DIRECT
+  - DOMAIN-SUFFIX,mtalk.google.com,DIRECT
+  - DOMAIN,livew.l.qq.com,DIRECT
+  - DOMAIN,vd.l.qq.com,DIRECT
+  - DOMAIN-SUFFIX,v.smtcdns.com,DIRECT
+  - DOMAIN-SUFFIX,vv.video.qq.com,DIRECT
+  - DOMAIN-SUFFIX,mfm.video.qq.com,DIRECT
+  - DOMAIN-SUFFIX,aiseet.atianqi.com,DIRECT
+  - DOMAIN-SUFFIX,video.coral.qq.com,DIRECT
+  - DOMAIN-SUFFIX,vfiles.gtimg.cn,DIRECT
+  - DOMAIN-SUFFIX,pingjs.qq.com,DIRECT
+  - DOMAIN-SUFFIX,image.video.qpic.cn,DIRECT
+  - DOMAIN-SUFFIX,l.qq.com,DIRECT
+  - DOMAIN-SUFFIX,aegis.qq.com,DIRECT
+  - DOMAIN-SUFFIX,v.smtcdns.com,DIRECT
+  - DOMAIN-SUFFIX,pingtas.qq.com,DIRECT
