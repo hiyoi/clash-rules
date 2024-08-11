@@ -1,4 +1,6 @@
 payload:
   - GEOSITE,aws,Proxy
+  - DOMAIN-SUFFIX,utas.mob.v2.prd.futc-ext.gcp.ea.com,Proxy
+  - DOMAIN-SUFFIX,ea.com,Proxy
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
   - DOMAIN-SUFFIX,services.googleapis.cn,Proxy
