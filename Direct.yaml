@@ -20,3 +20,7 @@ payload:
   - DOMAIN-SUFFIX,aegis.qq.com,DIRECT
   - DOMAIN-SUFFIX,v.smtcdns.com,DIRECT
   - DOMAIN-SUFFIX,pingtas.qq.com,DIRECT
+  - DOMAIN-SUFFIX,tracker.pterclub.com,DIRECT 
+  - DOMAIN-SUFFIX,tracker.totheglory.im,DIRECT
+  - DOMAIN-SUFFIX,tracker.m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,traxker.m-team.io,DIRECT
