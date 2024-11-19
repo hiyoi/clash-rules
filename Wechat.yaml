@@ -1,7 +1,7 @@
 payload:
   # 微信FCM推送
-  # - DOMAIN-SUFFIX,minorshort.weixin.qq.com
-  # - DOMAIN-SUFFIX,extshort.weixin.qq.com
+  - DOMAIN-SUFFIX,minorshort.weixin.qq.com
+  - DOMAIN-SUFFIX,extshort.weixin.qq.com
   - DOMAIN-SUFFIX,short.weixin.qq.com
   - DOMAIN-SUFFIX,long.weixin.qq.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
