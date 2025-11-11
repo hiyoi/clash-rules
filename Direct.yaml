@@ -20,8 +20,8 @@ payload:
   - DOMAIN-SUFFIX,aegis.qq.com
   - DOMAIN-SUFFIX,v.smtcdns.com
   - DOMAIN-SUFFIX,pingtas.qq.com
-  - DOMAIN-SUFFIX,tracker.pterclub.com
+  - DOMAIN-SUFFIX,tracker.pterclub.net
   - DOMAIN-SUFFIX,tracker.totheglory.im
   - DOMAIN-SUFFIX,tracker.m-team.cc
   - DOMAIN-SUFFIX,traxker.m-team.io
-  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,pterclub.net
